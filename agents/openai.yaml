@@ -1,0 +1,11 @@
+name: Xiaohongshu Pre-Publish Check
+description: Check Xiaohongshu publish readiness before posting.
+skill: xhs-prepublish-check
+tags:
+  - prepublish-check
+  - xiaohongshu
+  - rednote
+  - creator-tools
+  - content-workflow
+  - social-media
+  - publishing-checklist
